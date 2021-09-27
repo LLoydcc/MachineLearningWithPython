@@ -19,4 +19,5 @@ Wahrheitstabelle OR-Verknüpfung:
 |0  |0  |0  |
 
 Auslage des Neuronalen Netzwerks:
+
 ![struktur](/Aufgabe1/NeuronalesNetzwerkStruktur.png)
