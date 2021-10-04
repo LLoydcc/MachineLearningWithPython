@@ -8,7 +8,7 @@ nOutput = 1     # Anzahl Output-Neuronen
 
 a = np.array([0, 0, 0])         # Aktivierung
 s = np.array([0.5, 0.5, 1.5])   # Schwellenwerte: Ausgabeneuronen: or: 0.5; and: 1.5
-x = np.array([0, 0])            # Input
+x = np.array([1, 1])            # Input
 
 """ Index 0..len(x) des Arrays a wird mit den Werten des Arrays x befüllt. """
 a[0:len(x):1] = x

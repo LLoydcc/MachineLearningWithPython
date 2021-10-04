@@ -1,0 +1,4 @@
+PLAYER_1 = 2
+PLAYER_2 = 3
+WON = 9
+NO_MOVE = -1
