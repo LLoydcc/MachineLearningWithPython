@@ -1,4 +1,4 @@
-PLAYER_1 = 2
-PLAYER_2 = 3
+PLAYER_1 = 'x'
+PLAYER_2 = 'o'
 WON = 9
-NO_MOVE = -1
+TIE = 10
